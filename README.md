@@ -1,13 +1,22 @@
 # Rainfall-Impact-on-Agricultural-Productivity-Using-Power-BI
 Graded Assignment on Analyzing Rainfall Impact on Agricultural Productivity Using Power BI
+
+This project analyzes the relationship between rainfall patterns and agricultural productivity across Indian states from 1966–2017 using Power BI.
+
 # Tools Used
 Power BI
+
 DAX
+
 Power Query
+
 #Dashboard Features
 Rainfall trend analysis
+
 Crop productivity comparison
+
 Rainfall vs yield correlation
+
 # Files
 Mrunali_Salunke_CPDA_B9.pbix – Power BI dashboard
 
