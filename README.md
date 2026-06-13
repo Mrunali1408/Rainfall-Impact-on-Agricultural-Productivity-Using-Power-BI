@@ -9,7 +9,7 @@ Rainfall trend analysis
 Crop productivity comparison
 Rainfall vs yield correlation
 # Files
-dashboard.pbix – Power BI dashboard
+Mrunali_Salunke_CPDA_B9.pbix – Power BI dashboard
 
 Rainfall_Impact_On_Agriculture_Productivity.png   - Snapshot of Dashboard page 1
 
